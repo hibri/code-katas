@@ -1,7 +1,7 @@
 # The Randori Kata Rules
 
 
-* Some mechanism for regular switching of the driver and copilot is chosen. We will swap every 5 minutes. One in, one out 
+* Some mechanism for regular switching of the driver and copilot is chosen. We will swap every 10 minutes. One in, one out 
 * Two people step up to the keyboard and begin solving the Kata in hand
 start from scratch
 * use TDD and BabySteps
