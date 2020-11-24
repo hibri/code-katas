@@ -14,6 +14,6 @@ start from scratch
 # Code Katas
 -------------------
 
-[The Fizzbuzz Kata](kata/fizzbuzz.md)
+[The Fizzbuzz Kata](katas/fizzbuzz.md)
 
-[The Checkout Kata](kata/checkoutkata.md)
+[The Checkout Kata](katas/checkoutkata.md)
