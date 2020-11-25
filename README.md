@@ -1,5 +1,6 @@
 # The Randori Kata Rules
 
+We'll use VS Code Live Share for sharing the keyboard
 
 * Some mechanism for regular switching of the driver and copilot is chosen. We will swap every 10 minutes. One in, one out 
 * Two people step up to the keyboard and begin solving the Kata in hand
